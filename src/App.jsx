@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 const Pet = () => {
   return React.createElement("div", {}, [
     React.createElement("h1", {}, "LUNA"),
